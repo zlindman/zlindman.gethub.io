@@ -6,7 +6,11 @@ h1, h3 {
   color: #8B0000 
 }
 
+h1 {
+  text-transform: uppercase;
+}
+
 h3 {
-  text-decoration: underline; 
+  border-bottom: 1px solid; 
 }
 
